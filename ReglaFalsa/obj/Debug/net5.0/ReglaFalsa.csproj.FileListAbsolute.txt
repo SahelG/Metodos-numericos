@@ -1,0 +1,32 @@
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.csproj.AssemblyReference.cache
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.AssemblyInfoInputs.cache
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.AssemblyInfo.cs
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.exe
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.deps.json
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.runtimeconfig.json
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.runtimeconfig.dev.json
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.dll
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ref\ReglaFalsa.dll
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.pdb
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.dll
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ref\ReglaFalsa.dll
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.pdb
+D:\Cristian\Documents\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.genruntimeconfig.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ref\ReglaFalsa.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\bin\Debug\net5.0\ReglaFalsa.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ref\ReglaFalsa.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\ReglaFalsa\obj\Debug\net5.0\ReglaFalsa.genruntimeconfig.cache

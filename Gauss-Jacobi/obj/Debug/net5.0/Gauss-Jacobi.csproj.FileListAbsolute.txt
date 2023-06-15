@@ -1,0 +1,32 @@
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.exe
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.deps.json
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.runtimeconfig.json
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.runtimeconfig.dev.json
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.dll
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\ref\Gauss-Jacobi.dll
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.pdb
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.csproj.AssemblyReference.cache
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.AssemblyInfoInputs.cache
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.AssemblyInfo.cs
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.dll
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\ref\Gauss-Jacobi.dll
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.pdb
+D:\Cristian\Documents\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.genruntimeconfig.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\ref\Gauss-Jacobi.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\bin\Debug\net5.0\Gauss-Jacobi.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\ref\Gauss-Jacobi.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Jacobi\obj\Debug\net5.0\Gauss-Jacobi.genruntimeconfig.cache
