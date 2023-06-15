@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\ref\EulerMejorado.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\bin\Debug\net5.0\EulerMejorado.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\ref\EulerMejorado.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\EulerMejorado\obj\Debug\net5.0\EulerMejorado.genruntimeconfig.cache

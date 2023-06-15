@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\ref\Euler.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\bin\Debug\net5.0\Euler.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\ref\Euler.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Euler\obj\Debug\net5.0\Euler.genruntimeconfig.cache
