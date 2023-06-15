@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vh3CUPZthcWd708Gfrm0xW+tRzS3AwXvEHKyOY3WIWUGymXiJnzU9ljW5zmin039UVX5VaOeiL7L71SawG1eZw==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\PolinomioInterpoladorDeLagrange\\PolinomioInterpoladorDeLagrange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\ref\PolinomioInterpoladorDeLagrange.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\bin\Debug\net5.0\PolinomioInterpoladorDeLagrange.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\ref\PolinomioInterpoladorDeLagrange.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeLagrange\obj\Debug\net5.0\PolinomioInterpoladorDeLagrange.genruntimeconfig.cache

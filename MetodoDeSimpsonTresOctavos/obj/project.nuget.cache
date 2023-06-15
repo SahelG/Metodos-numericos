@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iAR37yIM7OuCDaS73w4z63/8GhbDDUWLIZhk/ZRY27abo8a1BNnIptl09gR6DynNlqPCIiDe8HI2D3qT70cHng==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\MetodoDeSimpsonTresOctavos\\MetodoDeSimpsonTresOctavos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

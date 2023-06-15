@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\ref\MetodoDeSimpsonTresOctavos.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\bin\Debug\net5.0\MetodoDeSimpsonTresOctavos.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\ref\MetodoDeSimpsonTresOctavos.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsonTresOctavos\obj\Debug\net5.0\MetodoDeSimpsonTresOctavos.genruntimeconfig.cache
