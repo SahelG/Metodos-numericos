@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\ref\PolinomioInterpoladorDeNewton.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\bin\Debug\net5.0\PolinomioInterpoladorDeNewton.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\ref\PolinomioInterpoladorDeNewton.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\PolinomioInterpoladorDeNewton\obj\Debug\net5.0\PolinomioInterpoladorDeNewton.genruntimeconfig.cache

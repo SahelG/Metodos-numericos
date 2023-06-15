@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmKHZqWtSpM6SLeLUw9ckb83GEs8EUWKs2lfo+PrTSHqa29s5SkARwr7QjcUn1H0Yg3fWPa1eL6W8Q4juNe0RQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\MetodoDelTrapecio\\MetodoDelTrapecio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

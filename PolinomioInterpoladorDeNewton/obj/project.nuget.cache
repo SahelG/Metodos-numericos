@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xr7ffkr5OjvIYBKErUivNBg9pQUA3LVHE7M5IdoFpdEj9zO7qEOG59+9wOJ1jGlIWP+khJL6lUZKpZf5DymvTA==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\PolinomioInterpoladorDeNewton\\PolinomioInterpoladorDeNewton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

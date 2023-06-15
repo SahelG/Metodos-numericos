@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\ref\MetodoDelTrapecio.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\bin\Debug\net5.0\MetodoDelTrapecio.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\ref\MetodoDelTrapecio.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDelTrapecio\obj\Debug\net5.0\MetodoDelTrapecio.genruntimeconfig.cache

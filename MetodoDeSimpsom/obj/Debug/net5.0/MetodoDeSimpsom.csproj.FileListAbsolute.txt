@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\ref\MetodoDeSimpsom.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\bin\Debug\net5.0\MetodoDeSimpsom.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\ref\MetodoDeSimpsom.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\MetodoDeSimpsom\obj\Debug\net5.0\MetodoDeSimpsom.genruntimeconfig.cache

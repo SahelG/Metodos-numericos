@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6YnyCNL5/yxa9UfoSOU7MZlo+bWpkwUyKhDtRa+agc5JV76h+Naf2La8qOmnBd6hy52XtIGasIiJtKEFkrfXw==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\NewtonRaphsonU3\\NewtonRaphsonU3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

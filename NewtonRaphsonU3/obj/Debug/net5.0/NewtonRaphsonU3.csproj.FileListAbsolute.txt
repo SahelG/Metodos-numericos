@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\ref\NewtonRaphsonU3.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\bin\Debug\net5.0\NewtonRaphsonU3.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\ref\NewtonRaphsonU3.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\NewtonRaphsonU3\obj\Debug\net5.0\NewtonRaphsonU3.genruntimeconfig.cache
