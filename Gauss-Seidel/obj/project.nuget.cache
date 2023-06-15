@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WhVPhGcd5hlxFnT3z+VCFdjGnOcfYdI72fDUXzLcrWiqmrU9f4QTU/YsWa5RwElUhZendd+BnVT1thFWpYLlOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\Gauss-Seidel\\Gauss-Seidel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

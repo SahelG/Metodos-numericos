@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9I7aWCqQP+wMwp1LpoMRAiEoNP5F+Wjzd3pAVlpyCU19eD/tytn6sXx5+8lcy+MdR+wOJToqO3w1k91232iJbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cristian\\Documents\\5to semestre\\Metodos numericos\\Biseccion\\Biseccion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

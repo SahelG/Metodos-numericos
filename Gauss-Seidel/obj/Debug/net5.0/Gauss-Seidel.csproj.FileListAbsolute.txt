@@ -1,0 +1,16 @@
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\ref\Gauss-Seidel.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\bin\Debug\net5.0\Gauss-Seidel.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\ref\Gauss-Seidel.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Gauss-Seidel\obj\Debug\net5.0\Gauss-Seidel.genruntimeconfig.cache

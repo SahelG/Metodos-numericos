@@ -1,0 +1,32 @@
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.csproj.AssemblyReference.cache
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.AssemblyInfoInputs.cache
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.AssemblyInfo.cs
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.exe
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.deps.json
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.runtimeconfig.json
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.runtimeconfig.dev.json
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.dll
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\ref\Biseccion.dll
+D:\Cristian\Documents\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.pdb
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.dll
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\ref\Biseccion.dll
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.pdb
+D:\Cristian\Documents\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.genruntimeconfig.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.exe
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.deps.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.runtimeconfig.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.runtimeconfig.dev.json
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\ref\Biseccion.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\bin\Debug\net5.0\Biseccion.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.csproj.AssemblyReference.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.AssemblyInfoInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.AssemblyInfo.cs
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\ref\Biseccion.dll
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.pdb
+D:\Cristian\Documents\5to semestre\Metodos numericos\Biseccion\obj\Debug\net5.0\Biseccion.genruntimeconfig.cache
